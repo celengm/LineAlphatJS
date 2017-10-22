@@ -1,5 +1,5 @@
 const LineConnect = require('./connect');
-let LINE = require('./main.js');
+let LINE = require('./main1.js');
 
 const auth = {
 	authToken: ' token disini',
